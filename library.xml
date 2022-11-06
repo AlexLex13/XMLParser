@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet type="text/xsl" href="library.xslt"?>
+<library>
+    <book>
+        <author>ЛЕВ ТОЛСТОЙ</author>
+        <title>АННА КАРЕНИНА</title>
+        <number_of_pages>300</number_of_pages>
+        <publishing_house>Просвет</publishing_house>
+        <circulation>1000</circulation>
+        <year_of_publication>1999</year_of_publication>
+    </book>
+    <book>
+        <author>МИХАИЛ ШОЛОХОВ</author>
+        <title>ТИХИЙ ДОН</title>
+        <number_of_pages>400</number_of_pages>
+        <publishing_house>Просвет</publishing_house>
+        <circulation>900</circulation>
+        <year_of_publication>1980</year_of_publication>
+    </book>
+    <book>
+        <author>Ю. Е. Шейнин</author>
+        <title>Проектирование цифровых схем на VHDL</title>
+        <number_of_pages>322</number_of_pages>
+        <publishing_house>Просвет</publishing_house>
+        <circulation>300</circulation>
+        <year_of_publication>2000</year_of_publication>
+    </book>
+</library>
